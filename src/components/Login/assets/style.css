@@ -1,0 +1,26 @@
+body {
+	background-color: #f8f8f8;
+}
+
+.div-box {
+	margin: 0 auto;
+	width: 320px;
+	padding: 90px 30px 45px 30px;
+	box-shadow: 0 0 100px rgba(0, 0, 0, 0.08);
+}
+
+.input {
+	margin-bottom: 25px;
+}
+
+.login {
+	width: 100%;
+}
+
+a {
+	margin: 0 15px;
+	font-size: 14px;
+}
+.div-login {
+	margin-top: 15px;
+}
