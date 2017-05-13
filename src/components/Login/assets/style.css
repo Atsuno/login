@@ -9,10 +9,6 @@ body {
 	box-shadow: 0 0 100px rgba(0, 0, 0, 0.08);
 }
 
-.input {
-	margin-bottom: 25px;
-}
-
 .login {
 	width: 100%;
 }
