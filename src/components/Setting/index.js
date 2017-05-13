@@ -16,7 +16,7 @@ const Setting = () => {
 
   return (
     <Dropdown overlay={menu}>
-      <Button ghost style={{ border: 0, float: "right" }}>
+      <Button ghost style={{ border: 0, float: 'right' }}>
         <Icon type="setting" />
       </Button>
     </Dropdown>
