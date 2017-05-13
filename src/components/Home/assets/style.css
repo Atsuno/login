@@ -27,20 +27,20 @@ body {
 
 .home-content {
 	background-color: #cffffd;
-	margin: 20px;
+	margin: 0 20px;
 	width: 95%;
 	padding: 20px;
 }
 
 .home-foot {
-	background-color: #00d3eb;
+	background-color: #00eb49;
 	height: 30px;
 	flex-direction: column;
 }
 
 .content {
 	overflow: auto;
-	height: 570px;
+	height: 550px;
 	width: 100%;
 }
 
@@ -50,4 +50,10 @@ body {
 }
 .desbord {
 	float: left;
+	border: none;
+}
+.home-arrow {
+	height: 20px;
+	width: 100%;
+	background-color: lightcoral;
 }
